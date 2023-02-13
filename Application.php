@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace boomee\phpmvc;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use boomee\phpmvc\db\Database;
+use boomee\phpmvc\db\DbModel;
 
 class Application
 {

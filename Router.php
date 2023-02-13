@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace boomee\phpmvc;
 
-use app\core\exception\NotFoundException;
+use boomee\phpmvc\exception\NotFoundException;
 
 class Router
 {
@@ -43,7 +43,7 @@ class Router
 
         if(is_array($callback))
         {
-            /** @var \app\core\Controller $controller */
+            /** @var \boomee\phpmvc\Controller $controller */
             $controller = new $callback[0];
             Application::$app->controller = $controller;
             $controller->action = $callback[1];

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\middlewares;
+namespace boomee\phpmvc\middlewares;
 
 
 abstract class BaseMiddleware

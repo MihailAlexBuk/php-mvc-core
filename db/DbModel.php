@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace boomee\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use boomee\phpmvc\Application;
+use boomee\phpmvc\Model;
 
 abstract class DbModel extends Model
 {

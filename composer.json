@@ -2,7 +2,7 @@
     "name": "boomee/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Bm\\PhpMvcCore\\": "src/"
+            "boomee\\phpmvc": "."
         }
     },
     "authors": [

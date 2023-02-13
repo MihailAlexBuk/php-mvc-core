@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace boomee\phpmvc\db;
 
 
-use app\core\Application;
+use boomee\phpmvc\Application;
 
 class Database
 {

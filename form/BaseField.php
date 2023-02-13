@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace boomee\phpmvc\form;
 
 
-use app\core\Model;
+use boomee\phpmvc\Model;
 
 abstract class BaseField
 {

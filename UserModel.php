@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace boomee\phpmvc;
 
 
-use app\core\db\DbModel;
+use boomee\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core;
-use app\core\middlewares\BaseMiddleware;
+namespace boomee\phpmvc;
+use boomee\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
