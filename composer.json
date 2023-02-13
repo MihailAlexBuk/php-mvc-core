@@ -1,5 +1,5 @@
 {
-    "name": "bm/php-mvc-core",
+    "name": "boomee/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Bm\\PhpMvcCore\\": "src/"
